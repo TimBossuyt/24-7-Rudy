@@ -1,5 +1,6 @@
 googletrans
 discord.py
 flask
+requests
 PyNaCl
 dnspython
