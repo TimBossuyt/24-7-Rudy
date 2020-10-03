@@ -1,0 +1,5 @@
+googletrans
+discord.py
+flask
+PyNaCl
+dnspython
